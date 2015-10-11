@@ -1,5 +1,5 @@
 # WnH
-##Slides and content from my JNUC 2015 talk, Computer Deployment: Ask “Why?” not “How?”
+####Slides and content from my JNUC 2015 talk, Computer Deployment: Ask “Why?” not “How?”
 **Tuesday, October 13, 1:30PM, McGuire Proscenium Stage**
 
 YouTube video coming soon
