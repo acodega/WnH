@@ -1,6 +1,7 @@
 # WnH
 ####DEP-newcomputer.sh Script
 **Featured in my talk, Computer Deployment, Ask “Why?” not “How?”**
+
 **JAMF Nation User Conference**
 
 **Tuesday, October 13 2015, 1:30PM, Guthrie Theater, Minneapolis, MN**
